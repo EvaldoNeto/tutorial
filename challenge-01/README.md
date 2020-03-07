@@ -4,8 +4,8 @@ Create a watcher that reads all .txt files uploaded to a folder and writes its c
 
 The main file of the application must be called main.py and it must receive two arguments, src_folder and dst_folder.
 
-src_folder: the full path to the folder that will be monitored
-dst_folder: the full path to the destination folder, where the content will be written
+-src_folder: the full path to the folder that will be monitored
+-dst_folder: the full path to the destination folder, where the content will be written
 
 Usage example:
 
